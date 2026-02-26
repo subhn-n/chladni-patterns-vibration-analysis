@@ -149,11 +149,8 @@ is presented on the **left**, whereas the pattern corresponding to
 
 <p align="center">
   <img src="experiments/1047_Hz.jpeg" width="400" height="400">
-  <img src="experiments/751.769_Hz.jpeg" width="400" height="400>
+  <img src="experiments/751.769_Hz.jpeg" width="400" height="400">
 </p>
-
-<!-- ![Experimental pattern for 1047 Hz](experiments/1047_Hz.jpeg) -->
-<!-- ![Experimental pattern for 751 Hz](experiments/751.769_Hz.jpeg) -->
 
 ---
 
