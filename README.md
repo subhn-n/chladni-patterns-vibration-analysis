@@ -21,6 +21,14 @@ Particular attention was given to resonance phenomena and to the physical and nu
 
 ---
 
+## Documentation
+
+- 📄 [TIPE Presentation (in french)](report/TIPE_presentation.pdf)
+- 📊 Simulation results available in `/results`
+- 🧪 Experimental validation in `/experiments`
+
+---
+
 # 1. Wave Equation Modeling (d'Alembert Formulation)
 
 The transverse vibration of the plate was modeled using the 2D wave equation.
@@ -134,9 +142,18 @@ The simplified wave model is no longer accurate for complex vibration modes, ill
 Physical experiments were conducted on a vibrating rectangular plate with free boundary conditions.
 
 Observed Chladni patterns were compared with theoretical and numerical predictions.
+As an illustration, the experimental Chladni pattern obtained at **1047 Hz** 
+is presented on the **left**, whereas the pattern corresponding to 
+**751.769 Hz** appears on the **right**. 
 
-![Experimental pattern for 1047 Hz](experiments/1047_Hz.jpeg)
-![Experimental pattern for 751 Hz](experiments/751.769_Hz.jpeg)
+
+<p align="center">
+  <img src="experiments/1047_Hz.jpeg" width="400" height="400">
+  <img src="experiments/751.769_Hz.jpeg" width="400" height="400>
+</p>
+
+<!-- ![Experimental pattern for 1047 Hz](experiments/1047_Hz.jpeg) -->
+<!-- ![Experimental pattern for 751 Hz](experiments/751.769_Hz.jpeg) -->
 
 ---
 
@@ -147,15 +164,6 @@ Observed Chladni patterns were compared with theoretical and numerical predictio
 - Matplotlib
 - Finite difference discretization
 - Linear algebra (eigenvalue computation)
-
----
-
-## Repository Structure
-
-src/ – Python implementations 
-results/ – Simulation outputs 
-experiments/ – Experimental photos 
-report/ – TIPE presentation (PDF)
 
 ---
 
