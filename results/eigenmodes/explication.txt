@@ -1,0 +1,14 @@
+Pour capturer les basses fréquences, il faut agir sur n qui corespond au 
+nombre de points que l'on prend par lignes et par colonnes. On rappelle, 
+la plaque est discrétisée en une grille de n² points. Mais ce n'est pas 
+si simple. Le problème est que pour les basses fréquences, on a de 
+grandes longueurs d'ondes. Comme il est impossible de représenter une 
+grande vague avec deux points, il l'est aussi pour les basses 
+fréquences. Il faut donc augmenter le nombre de points que l'on 
+considère. Mais augmenter n, c'est augmenter drastiquement la complexité 
+(au moins au carré), donc on a un dilemme (dès que n vaut 100, on voit 
+déja pourquoi). De plus, pour les hautes fréquences, le modèle de 
+d'Alembert en considérant la plaque comme une membrane fine n'est plus 
+valable. On ne peut donc pas prévoir les fréquences avec ce modèle. Il 
+faut opter pour un autre, par exemple le modèle de Kirchoff-Love qui est 
+plus approprié au problème.
