@@ -125,7 +125,7 @@ At higher frequencies, discrepancies between analytical predictions and numerica
 
 The simplified wave model is no longer accurate for complex vibration modes, illustrating the limits of theoretical assumptions.
 
-![High Frequency Behavior](results/complexity_limits/regression c-f.png)
+![High Frequency Behavior](results/complexity_limits/regression_c-f.png)
 
 ---
 
@@ -135,8 +135,8 @@ Physical experiments were conducted on a vibrating rectangular plate with free b
 
 Observed Chladni patterns were compared with theoretical and numerical predictions.
 
-![Experimental pattern for 1047 Hz](experiments/1047 Hz.jpeg)
-![Experimental pattern for 751 Hz](experiments/751.769 Hz.jpeg)
+![Experimental pattern for 1047 Hz](experiments/1047_Hz.jpeg)
+![Experimental pattern for 751 Hz](experiments/751.769_Hz.jpeg)
 
 ---
 
