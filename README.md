@@ -23,7 +23,7 @@ Particular attention was given to resonance phenomena and to the physical and nu
 
 ## Documentation
 
-- 📄 [TIPE Presentation (in french)](report/TIPE_presentation.pdf)
+- 📄 [TIPE Presentation (in french)](report/Etude_des_figures_de_Chladni_TIPE1.pdf)
 - 📊 Simulation results available in `/results`
 - 🧪 Experimental validation in `/experiments`
 
